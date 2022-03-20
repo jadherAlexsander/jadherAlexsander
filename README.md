@@ -1,7 +1,5 @@
 # Jadher Alexsander 👨‍🎓
 
-*Sou um aspirante a programador de ***14 anos.*** Atualmente* ***estudando algoritmos.*** <br />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadherAlexsander&hide=stars&hide_title=true&show_icons=true&theme=synthwave)
 
 
