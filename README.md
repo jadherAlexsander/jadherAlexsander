@@ -1,4 +1,4 @@
-# E ae, me chamo Jadher Alexsander 👨‍🎓
+# E ai, me chamo Jadher Alexsander 👨‍🎓
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadherAlexsander&hide=stars&hide_title=true&show_icons=true&theme=synthwave)
 
