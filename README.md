@@ -1,16 +1,14 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadherAlexsander&hide=contribs,prs&theme=radical&hide_border=true&locale=pt-br&hide_title=true&rank_icon=github&text_bold=false)
 
-<!--
-**jadherAlexsander/jadherAlexsander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <sub>```Linguagem princípal:```</sub>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-Here are some ideas to get you started:
+### <sub>```Contatos:```</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:contatojalexsander@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:contatojalexsander@gmail.com">Contate-me pelo E-mail</a>
+
+[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jadher-alexsander-72317a301/)
+
+[Contate-me pelo Linkedin](https://www.linkedin.com/in/jadher-alexsander-72317a301/)
